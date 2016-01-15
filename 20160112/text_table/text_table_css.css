@@ -1,7 +1,19 @@
 .w1 {
-    font color: white;
+    background-color: blue;
+    color: white;
 }
 
 .w2 {
-    background-color: yellow;
+    background-color: green;
+    color: white;
+}
+
+.w3 {
+    background-color: blue;
+    color: white;
+}
+
+.w4 {
+    background-color: #99D9EA;
+    color: red;
 }
