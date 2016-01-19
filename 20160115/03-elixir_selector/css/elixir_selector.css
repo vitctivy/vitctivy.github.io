@@ -1,0 +1,14 @@
+@font-face {
+    font-family: EmblemaOne-Regular;
+    src: url(type/EmblemaOne-Regular.ttf);
+    src: url(type/EmblemaOne-Regular.woff);
+}
+
+body {
+    font-family: EmblemaOne-Regular;
+}
+
+div>-p {
+    color: blue;
+    font-size: 70px;
+}
