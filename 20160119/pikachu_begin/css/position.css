@@ -1,0 +1,148 @@
+.bg {
+    background-color: #F7E726;
+}
+
+.wrap {
+    background: #E45E3A;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    width: 260px;
+    height: 260px;
+    top: -55px;
+    left: 450px;
+}
+
+.circle1 {
+    position: absolute;
+    top: 75px;
+    left: 65px;
+}
+
+.title {
+    color: #F7E726;
+    position: absolute;
+    top: 100px;
+    left: 5px;
+}
+
+.circle2 {
+    background: #9B5400;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 280px;
+    left: -120px;
+}
+
+.titlea {
+    color: white;
+    position: absolute;
+    top: 70px;
+    left: 40px;
+}
+
+.circle3 {
+    color: #9B5400;
+    font-weight: 50px;
+    text-align: center;
+    font-style: 50px;
+    background: white;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    width: 400px;
+    height: 400px;
+    top: 250px;
+    left: 100px;
+}
+
+.titled {
+    color: #9B5400;
+    position: absolute;
+    top: 50px;
+    left: 95px;
+}
+
+.titlee {
+    color: #9B5400;
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    top: 100px;
+    left: 70px;
+}
+
+.circle4 {
+    background: white;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    width: 195px;
+    height: 195px;
+    top: 150px;
+    left: 370px;
+}
+
+.img1 {
+    position: absolute;
+    top: 35px;
+    left: 35px;
+}
+
+.circle5 {
+    background: #9B5400;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: fixed;
+    width: 100px;
+    height: 100px;
+    top: 550px;
+    left: 1200px;
+}
+
+.titlec {
+    color: white;
+    text-align: center;
+}
+
+.img2 {
+    position: absolute;
+    top: 50px;
+    left: 30px;
+}
+
+.circle6 {
+    background: #E45E3A;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    border-bottom-right-radius: 50%;
+    border-bottom-left-radius: 50%;
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    top: 700px;
+    left: 50px;
+}
+
+.titlef {
+    text-align: center;
+    color: #F7E726;
+    position: absolute;
+    width: 150px;
+    height: 150px;
+    top: 60px;
+    left: 30px;
+}

@@ -1,0 +1,94 @@
+.list {
+    position: fixed;
+    background-color: #9A5927;
+    width: 2500px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 14pt;
+}
+
+ul li {
+    float: left;
+    display: block;
+    background-color: #9A5927;
+    width: 150px;
+    text-align: center;
+    line-height: 50px;
+    font-size: 14pt;
+}
+
+ul li a {
+    color: #F9F59A;
+    text-decoration: none;
+}
+
+ul li ul {
+    display: none;
+}
+
+ul li:hover ul {
+    display: block;
+}
+
+ul li ul li:hover {
+    background-color: #E4833A;
+}
+
+.devide {
+    color: #D16D49;
+    text-align: center;
+}
+
+h4 {
+    color: #D16D49;
+    text-align: center;
+    font-size: 40px;
+}
+
+.bk01 {
+    color: #D16D49;
+    text-align: center;
+    font-size: 21px;
+    margin-left: 23%;
+    margin-top: 15px;
+    width: 1000px;
+    height: 150px;
+}
+
+.bs01 {
+    color: #D16D49;
+    text-align: center;
+    font-size: 21px;
+    margin-left: 23%;
+    margin-top: 15px;
+    width: 1000px;
+    height: 150px;
+}
+
+#good {
+    color: #5D4E3A;
+    margin-left: 150px;
+    width: 200px;
+    height: 300px;
+    background-color: #FCEDDA;
+    float: left;
+}
+
+#bad {
+    color: #5D4E3A;
+    width: 200px;
+    height: 300px;
+    background-color: #FCEDDA;
+    float: left;
+    margin-left: 200px;
+}
+
+#feature {
+    color: #5D4E3A;
+    width: 200px;
+    height: 300px;
+    background-color: #FCEDDA;
+    float: left;
+    margin-left: 200px;
+}
